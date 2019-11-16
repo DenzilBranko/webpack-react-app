@@ -1,6 +1,3 @@
-//webpack generated file
-
-https://hackernoon.com/lets-start-with-webpack-4-91a0f1dba02e
 
 
 //if you get the CleanWebpackPlugin is not a constructor fallow below solution
